@@ -1,0 +1,44 @@
+@font-face{
+    font-family: 'font1';
+    src:url(../fonts/chubgothic_1.ttf)
+}
+#film1{font-family : 'font1';
+
+}
+
+body{
+    background-color:rgb(39, 127, 168);
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 20px;
+}
+h2{
+    color:aqua;
+    font-family : 'font1';
+}
+
+#p1{
+    color:rgb(0, 17, 255) ;
+    font-family : 'font1';
+}
+#p2{
+    color:blueviolet;
+}
+#p3{
+    color:yellow
+}
+#p1 {
+    text-align: center;
+}
+#p2 {
+    text-align: left;
+}
+#p3 {
+    text-align: right;
+}
+#table1 {
+    font-family: 'font1'; 
+    color: rgb(0, 17, 255)
+}
